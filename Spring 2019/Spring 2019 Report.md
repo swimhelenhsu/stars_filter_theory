@@ -75,7 +75,6 @@ The Spring 2018 team focused primarily on changing the density of floc particles
 <b>Figure 2 </b>: The schematic for the Spring 2018 experimental filter apparatus in filter mode.
 </p>
 
-**[This is Figure 2 not Figure 3. The following figure numbers are also wrong.]**
 
 The main goal of the Fall 2018 Team was to construct the apparatus for future experimentation. The team focused on building three 1-layered sand filters, each of them connected to a turbidimeter that would measure the NTU units of the filtered water. The team was also focused on creating a detailed manual for future teams. The prior filter design used by different teams was the 2-layer filter.
 
@@ -95,7 +94,7 @@ The findings of the previous StaRS teams are crucial for understanding filter pe
 <b>Figure 3 </b>: The  first schematic for the Spring 2019 experimental filter apparatus.
 </p>
 
-The Spring 2019 team slightly altered the design from the Fall 2018 team. **[Refer to figures here to note that Figure 2 is last semester's design and Figure 3 is this semester's design]**. Figure 2 shows the design that the Team from Fall 2018 had and Figure 3 shows the new design. The two pumps from the Fall 2018 apparatus, which were on the backwash line (light blue) and before the effluent turbidimeters (Fig. 2),**(Fig. 3)** were combined into one pump which is located on the exit line, labelled 13 on the diagram (Fig. 3)**(Fig. 4)**. The team opted to place the necessary pump after the effluent turbidimeters instead of before in order to prevent the pump from altering the turbidimeter readings from the effluent flow. By removing this pump, the team intended to improve the efficiency of the apparatus, and prevent pumps from essentially competing with each other. The pump that was at the water inlet was considered redundant and removed. Therefore, the only pump needed for the water flow in the apparatus is near the exit. This design change had been effective for initial tests with only water, but ended up being improved upon further.
+The Spring 2019 team slightly altered the design from the Fall 2018 team.  Figure 2 shows the design that the Team from Fall 2018 had and Figure 3 shows the new design. The two pumps from the Fall 2018 apparatus, which were on the backwash line (light blue) and before the effluent turbidimeters (Fig. 2),**(Fig. 3)** were combined into one pump which is located on the exit line, labelled 13 on the diagram (Fig. 3)**(Fig. 4)**. The team opted to place the necessary pump after the effluent turbidimeters instead of before in order to prevent the pump from altering the turbidimeter readings from the effluent flow. By removing this pump, the team intended to improve the efficiency of the apparatus, and prevent pumps from essentially competing with each other. The pump that was at the water inlet was considered redundant and removed. Therefore, the only pump needed for the water flow in the apparatus is near the exit. This design change had been effective for initial tests with only water, but ended up being improved upon further.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/AguaClara/stars_filter_theory/master/Spring%202019/Backwash%20Apparatus%20Design.png?raw=true" heights=720 width=1260>
@@ -105,7 +104,7 @@ The Spring 2019 team slightly altered the design from the Fall 2018 team. **[Ref
 <b>Figure 4</b>: The current schematic for the Spring 2019 backwash set-up
 </p>
 
-**[Perhaps walking through the flow process through your apparatus would be worth your time here because the diagram is not super easy on the eyes and can be a bit difficult to understand.]**
+**[Nice graphics!]**
 
 After setting up the apparatus, more changes were made. Figure 4 is the schematic while Figure 5 is an image of the current iteration of the apparatus for the Spring 2019 StaRS Filter Team. The solenoid valves that were placed after each filter were removed. The backwash line was attached directly to the inlet and the outlet lines, with a solenoid valve to control the direction of flow.
 
