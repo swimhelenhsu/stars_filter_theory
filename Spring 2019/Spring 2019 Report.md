@@ -2,11 +2,10 @@
 #### Barbara Oramah, Lainey Reed, Pablo Alonso Alguacil and Ronya Strom
 ##### 12th April, 2019 **[Update the date]**
 
-**[Sidney: Hey team! I'll be commenting in these bolded square brackets.]**
+**[Helen: Hey team! I'll also be commenting in these bolded square brackets. Overall great job. Please watch out for consistent tenses and the writing while concise can be smoothened out at some points. Just some things to be careful about, overal it's great seeing you incorporate Sidney's changes]**
 
-**[Did you guys remove Felix's comments from your last submission? Please don't do that because I can't see if you properly address comments and resolve them.]**
 
-**[Overall: Nice work! Please address my comments on grammar, past tense, figure labeling, and Python commenting for next time. Consider writing a walk-through of how influent passes through your apparatus.]**
+
 
 ### Abstract
 
@@ -28,11 +27,11 @@ Stacked Rapid Sand (StaRS) Filtration is the last stage in an AguaClara treatmen
 
 
 ### Introduction
-Sand filtration has been used since ancient times. In AguaClara water treatment plants, a common type of sand filtration is used - rapid (gravity) sand filtration. This filtration method requires the use of a chemical coagulant, polyaluminum chloride (PACl **[We write PACl]**), to aggregate small particles (flocs) to increase the ease of particle filtration. This filter design has proven to reduce turbidity below 0.3 NTU, which meets the EPA standards. Experimentation performed on the model sand filter in the lab and the sand filters in the water treatment plants built in Honduras have proved the effectiveness of StaRS filters.
+Sand filtration has been used since ancient times **[how ancient? If you know it might be good to mention instead of saying an arbitrary time period]**. In AguaClara water treatment plants, a common type of sand filtration is used - rapid (gravity) sand filtration. This filtration method requires the use of a chemical coagulant, polyaluminum chloride (PACl), to aggregate small particles (flocs) to increase the ease of particle filtration. This filter design has proven to reduce turbidity below 0.3 NTU, which meets the EPA standards. Experimentation performed on the model sand filter in the lab and the sand filters in the water treatment plants built in Honduras have proved the effectiveness of StaRS filters.
 
-The goal of the StaRS Filter Theory sub-team is to develop a mathematical model describing the filter performance. To do so, the relevant filtration parameters must be determined through experimentation. These parameters can then be used to optimize filter performance for minimum effluent turbidity and maximum failure time. The filter parameters that have been investigated by previous sub-teams include coagulant dosage, influent flow rate, influent turbidity, backwash duration (e.g. the time needed for the system to clean itself between runs) and floc size. The Spring 2019 team will be  **[Try to use consistent past tense]** running experiments and analyzing the performance with the 3 new StaRS filters that were built by the previous team. Each of the filters contain a layer of sand, differing in their sand grain size.
+The goal of the StaRS Filter Theory sub-team is to develop a mathematical model describing the filter performance. To do so, the relevant filtration parameters must be determined through experimentation. These parameters can then be used to optimize filter performance for minimum effluent turbidity and maximum failure time. **[Still use consistend past tense. "These parameters could then be used"]** The filter parameters that have been investigated by previous sub-teams include coagulant dosage, influent flow rate, influent turbidity, backwash duration (e.g. the time needed for the system to clean itself between runs) and floc size. The Spring 2019 team will be running experiments and analyzing the performance with the 3 new StaRS filters that were built by the previous team. Each of the filters contain a layer of sand, differing in their sand grain size.
 
-Last semester, while focusing on fabricating three new filters, the team developed a hypothesis for how sand grain size affects filter performance. The team hypothesized that the filter with the largest sand grains would have the shortest failure time. This hypothesis has not changed within the Spring 2019 team. Failure time corresponds to the time taken for the filter performance efficiency to decrease drastically. The team expects that flocs will be deposited along the sand pores at the same rate in every filter because the rate of the influent stream will be held constant. However, the volume of the filter will be held constant, so when sand grain size increases, the number of sand grain pores in the filter decreases. Ultimately, this means that for a filter filled with larger sand grains, there will be fewer sand pores active at one time. This is demonstrated in Figure 1. This decrease in pore number may cause the active filtration zone to move through the filter faster, leading to a quicker failure time.
+Last semester, while focusing on fabricating three new filters, the team developed a hypothesis for how sand grain size affects filter performance. The team hypothesized that the filter with the largest sand grains would have the shortest failure time. This hypothesis has not changed within the Spring 2019 team. Failure time corresponds to the time taken for the filter performance efficiency to decrease drastically. **[consistent past tense please]** The team expects that flocs will be deposited along the sand pores at the same rate in every filter because the rate of the influent stream will be held constant. However, the volume of the filter will be held constant, so when sand grain size increases, the number of sand grain pores in the filter decreases. Ultimately, this means that for a filter filled with larger sand grains, there will be fewer sand pores active at one time. This is demonstrated in Figure 1. **[Try to make sentences flow together and a bit less choppy]** This decrease in pore number may cause the active filtration zone to move through the filter faster, leading to a quicker failure time.
 
 
 <p align="center">
@@ -57,7 +56,7 @@ One of the team's goals in varying sand grain size is to understand how the grai
 
 Investigations into grain sizes of glass beads have found that grain size has less of an effect compared to changes in coagulant doses ([Chuang & Li, 1997](https://doi.org/10.1016/S1383-5866(97)00048-8)). Larger doses of coagulant lead to a shorter ripening time, but also lead to an increased rate of pore clogging and to an increase in the shear force in unclogged pores. However, grain size can have effects depending on the coagulant and flocculant dosages. In this study, a flocculant, separate from the coagulant, was used to further increase flocculation. The researchers found that larger grains in addition to both flocculant and higher coagulant dosages reduced the rate of pore clogging. They hypothesized that it was because larger aggregates were able to pass through the pores between the larger glass beads. In the future, the team will be varying both coagulant dosage and grain size, as was done in this study. However, sand will be used as a filter material, as is used in AguaClara plants. Furthermore, AguaClara plants only use PaCl, a coagulant, not both a coagulant and a flocculant. The flocculant increased the extent to which the reduction in clogging was observed within the study. The team would expect to see greater clogging than what was seen in this study in the larger sand grains.
 
-As the semester progresses and experiments begin, the team hopes to review more literature to aid with our research.
+As the semester progresses and experiments begin, the team hopes to review more literature to aid with our research. **[Just curious, Has this been occuring since the start of the experiements?]**
 
 ### Previous Works
 
@@ -104,8 +103,6 @@ The Spring 2019 team slightly altered the design from the Fall 2018 team. **[Ref
 <p align="center">
 <b>Figure 4</b>: The current schematic for the Spring 2019 backwash set-up
 </p>
-
-**[Perhaps walking through the flow process through your apparatus would be worth your time here because the diagram is not super easy on the eyes and can be a bit difficult to understand.]**
 
 After setting up the apparatus, more changes were made. Figure 4 is the schematic while Figure 5 is an image of the current iteration of the apparatus for the Spring 2019 StaRS Filter Team. The solenoid valves that were placed after each filter were removed. The backwash line was attached directly to the inlet and the outlet lines, with a solenoid valve to control the direction of flow.
 
